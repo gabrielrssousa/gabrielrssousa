@@ -1,29 +1,11 @@
-### Skills & Technologies
-[![My Skills](https://skillicons.dev/icons?i=linux,spring,angular,java,js,ts,arduino&perline=8)](https://skillicons.dev)
+![Status](./profile-3d-contrib/profile-night-green.svg)
 
-<div> <details>
-  <summary>more information.... (click here)</summary>
-  
-  ```java
-    import com.github.gabrielrssousa;
-  
-    @Table(name = "bio")
-    @Entity(name = "Bio")
-    @Getter
-    @NoArgsConstructor
-    @AllArgsConstructor
-    public class Bio extends FullStackDeveloper implements SoftwareDevelopment {
-      FullStackDeveloper gabrielrssousa = new FullStackDeveloper();
-      gabrielrssousa.name('Gabriel Sousa');
-      gabrielrssousa.title('FullStack Developer | Software Engineer | Physicist | Teacher');
-      gabrielrssousa.location('Teixeira de Freitas, Bahia, Brazil');}
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielrssousa&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielrssousa&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
-    public class Skills extends FullStackDeveloper implements SoftwareDevelopment {
-      gabrielrssousa.languages('Java', 'Js', 'Ts', 'C/C++');
-      gabrielrssousa.databases('PostgreSQL', 'MySQL', 'MongoDB');
-      gabrielrssousa.frameworks('Spring', 'Angular', 'Arduino');
-      gabrielrssousa.technologies('Git', 'Docker', 'nginx');}
-
-    System.out.println("Welcome to my profile, make yourself at home!")
-```
-</details> </div>
+<div align="center" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,spring,vscode,javascript,typescript,css,html,angular,react,next,tailwind,nodejs,docker,figma,github,linux,arduino,postman,vercel,bootstrap,mongodb,postgres,discord,linkedin"/>
+  </a>
+  <br />
+</div>
